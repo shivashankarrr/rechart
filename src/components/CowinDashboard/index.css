@@ -1,1 +1,35 @@
 /* Write your CSS here */
+.loader {
+  display: flex;
+  justify-content: center;
+}
+.failure-image {
+  width: 800px;
+  margin: 50px;
+}
+.failure-view-container {
+  display: flex;
+  justify-content: center;
+  background-color: #1c1c2b;
+}
+.website-logo-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.website-logo {
+  height: 50px;
+  width: 50px;
+}
+.website-heading {
+  color: #64c2a6;
+  margin-left: 5px;
+}
+.main-bg-container {
+  background-color: #1c1c2b;
+  padding: 20px;
+}
+.main-heading {
+  color: #ffffff;
+  font-family: roboto;
+}
